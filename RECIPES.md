@@ -1,20 +1,20 @@
 # Recipe List
 
-- Pierogies
-- Quesadilla
-- Buttered noodles
-- Tacos
-- Nachos
-- Breakfast
-- Boursin pasta
-- Italian subs
-- Squash pasta
-- Pizza
-- Grilled cheese
-- Mac and cheese
-- Pasta salad
-- Tomato cream pasta
-- Mini quiche
-- Sausage burritos
-- Green bean Italian sausage red potato dish
-- Hot dog
+- [Pierogies](recipes/pierogies.md)
+- [Quesadilla](recipes/quesadilla.md)
+- [Buttered noodles](recipes/buttered-noodles.md)
+- [Tacos](recipes/tacos.md)
+- [Nachos](recipes/nachos.md)
+- [Breakfast](recipes/breakfast.md)
+- [Boursin pasta](recipes/boursin-pasta.md)
+- [Italian subs](recipes/italian-subs.md)
+- [Squash pasta](recipes/squash-pasta.md)
+- [Pizza](recipes/pizza.md)
+- [Grilled cheese](recipes/grilled-cheese.md)
+- [Mac and cheese](recipes/mac-and-cheese.md)
+- [Pasta salad](recipes/pasta-salad.md)
+- [Tomato cream pasta](recipes/tomato-cream-pasta.md)
+- [Mini quiche](recipes/mini-quiche.md)
+- [Sausage burritos](recipes/sausage-burritos.md)
+- [Green bean Italian sausage red potato dish](recipes/green-bean-italian-sausage-red-potato-dish.md)
+- [Hot dog](recipes/hot-dog.md)

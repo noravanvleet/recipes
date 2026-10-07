@@ -20,18 +20,18 @@ The spinner needs ingredients to show, but today `RECIPES.md` only lists recipe 
 
 **As a** cook, **I want** every recipe written down **so that** the site has ingredients to show.
 
-- [ ] Each of the 18 recipes in `RECIPES.md` has its own file, following the template in `CLAUDE.md`
-- [ ] Each file has at least a name and an ingredient list (steps can come later)
-- [ ] File names are kebab-case (e.g. `boursin-pasta.md`)
+- [x] Each of the 18 recipes in `RECIPES.md` has its own file, following the template in `CLAUDE.md`
+- [x] Each file has at least a name and an ingredient list (steps can come later)
+- [x] File names are kebab-case (e.g. `boursin-pasta.md`)
 
 ### R-2: Link the recipe list to the recipe files
 
-- [ ] Each entry in `RECIPES.md` links to its recipe file
+- [x] Each entry in `RECIPES.md` links to its recipe file
 
 ### R-3: Move recipe files into a `recipes/` subfolder
 
-- [ ] Recipe files live in one folder so the build script can find them without picking up `CLAUDE.md`, `BACKLOG.md`, etc.
-- [ ] Links in `RECIPES.md` still work
+- [x] Recipe files live in one folder so the build script can find them without picking up `CLAUDE.md`, `BACKLOG.md`, etc.
+- [x] Links in `RECIPES.md` still work
 
 ---
 
